@@ -1,0 +1,8 @@
+
+ursina
+torch
+numpy
+opencv-python
+deepface
+SpeechRecognition
+pyaudio
